@@ -1,2 +1,7 @@
-# conflict
-Conflict demo for instruemtal development tools faculty
+### Практическая работа №5
+### Задание 1.
+
+Выполнил:
+Дубровский А.А.
+УВП-313
+
